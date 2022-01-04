@@ -1,4 +1,4 @@
-# Case Study for Stout 
+# Case Study
 Author: Saahil Hiranandani. 
 
 
